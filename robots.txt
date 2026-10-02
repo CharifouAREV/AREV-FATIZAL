@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.arev-fatizal.com/sitemap.xml
